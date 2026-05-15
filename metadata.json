@@ -1,0 +1,8 @@
+{
+  "name": "Personal Portfolio",
+  "description": "A personal portfolio website dynamically generated from a CV, featuring a polished and responsive design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
